@@ -21,13 +21,13 @@ patches:
 images:
 - name: joelheusala/broadcaster
   newName: joelheusala/broadcaster
-  newTag: 10ef61ee72b6cdd96bab350f7cc2aa92a90edfa8
+  newTag: dc19d5fcc18e842a81e583670735640b4ab86e8d
 - name: joelheusala/todo-app
   newName: joelheusala/todo-app
-  newTag: 10ef61ee72b6cdd96bab350f7cc2aa92a90edfa8
+  newTag: dc19d5fcc18e842a81e583670735640b4ab86e8d
 - name: joelheusala/todo-backend
   newName: joelheusala/todo-backend
-  newTag: 10ef61ee72b6cdd96bab350f7cc2aa92a90edfa8
+  newTag: dc19d5fcc18e842a81e583670735640b4ab86e8d
 - name: joelheusala/wikipedia-reader
   newName: joelheusala/wikipedia-reader
-  newTag: 10ef61ee72b6cdd96bab350f7cc2aa92a90edfa8
+  newTag: dc19d5fcc18e842a81e583670735640b4ab86e8d
